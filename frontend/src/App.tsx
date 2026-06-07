@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { api } from "./api.ts";
+import { api } from "./api";
 
 interface Item {
   id: number;
